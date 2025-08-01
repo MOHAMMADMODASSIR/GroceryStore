@@ -1,5 +1,4 @@
 {
-  "build": {
-    "root": "backend-server"
-  }
+  "name": "GroceryStore",
+  "root": "backend-server"
 }
